@@ -1,0 +1,501 @@
+word,pte_frequency_rating,question_types,basis,source
+significant,High,"Essay, Summarize Written Text, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+approach,"Very High","Read Aloud, Essay, Summarize Written Text","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+environment,"Very High","Read Aloud, Essay, Describe Image","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+individual,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+establish,High,"Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+particular,"Very High","Read Aloud, Essay, Repeat Sentence","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+specific,"Very High","Read Aloud, Essay, Write Email","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+available,"Very High","Read Aloud, Summarize Written Text","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+consistent,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+previous,High,"Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+research,"Very High","Read Aloud, Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+analysis,High,"Read Aloud, Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+therefore,High,"Essay, Summarize Written Text","author judgment: common discourse marker","Practice — not from a verified PTE frequency list"
+however,"Very High","Essay, Summarize Written Text, Retell Lecture","author judgment: common discourse marker","Practice — not from a verified PTE frequency list"
+although,High,"Essay, Summarize Written Text","author judgment: common discourse marker","Practice — not from a verified PTE frequency list"
+develop,"Very High","Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+require,"Very High","Read Aloud, Write Email, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+necessary,"Very High","Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+various,High,"Read Aloud, Essay, Describe Image","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+characteristic,"Medium-High","Retell Lecture, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+demonstrate,High,"Read Aloud, Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+considerable,"Medium-High","Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+substantial,"Medium-High","Essay, Summarize Written Text","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+phenomenon,Medium,"Retell Lecture, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+hypothesis,Medium,"Retell Lecture, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+methodology,Medium,"Retell Lecture, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+comprehensive,Medium,"Essay, Summarize Written Text","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+inevitable,Medium,"Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+subsequent,"Medium-High","Read Aloud, Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+approximately,"Very High","Describe Image, Essay, Summarize Written Text","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+determine,High,"Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+increase,"Very High","Describe Image, Essay, Summarize Written Text","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+decrease,"Very High","Describe Image, Essay, Summarize Written Text","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+context,High,"Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+concept,High,"Read Aloud, Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+structure,"Very High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+function,High,"Read Aloud, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+process,"Very High","Read Aloud, Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+factor,"Very High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+variable,High,"Retell Lecture, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+sufficient,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+efficient,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+influence,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+impact,"Very High","Describe Image, Essay, Read Aloud","author judgment: common in data-reporting and essay contexts","Practice — not from a verified PTE frequency list"
+perspective,High,"Essay, Respond to a Situation","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+strategy,High,"Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+principle,High,"Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+theory,High,"Retell Lecture, Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+evidence,"Very High","Essay, Summarize Written Text, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+conclude,High,"Essay, Summarize Written Text","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+assume,Medium,"Essay, Respond to a Situation","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+achieve,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+maintain,High,"Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+obtain,"Medium-High","Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+contribute,High,"Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+distribute,"Medium-High","Read Aloud, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+investigate,Medium,"Retell Lecture, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+eliminate,Medium,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+emphasize,High,"Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+illustrate,Medium,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+benefit,High,"Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+advantage,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+disadvantage,"Medium-High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+challenge,"Very High","Essay, Read Aloud, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+opportunity,"Very High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+solution,"Very High","Essay, Read Aloud, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+problem,"Very High","Essay, Read Aloud, Describe Image","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+issue,"Very High","Essay, Summarize Written Text, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+situation,"Very High","Respond to a Situation, Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary; directly names an item type","Practice — not from a verified PTE frequency list"
+circumstance,"Medium-High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+condition,"Very High","Read Aloud, Essay, Describe Image","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+relationship,"Very High","Essay, Read Aloud, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+communication,"Very High","Essay, Read Aloud, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+technology,"Very High","Essay, Read Aloud, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+innovation,High,"Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+traditional,High,"Essay, Read Aloud, Describe Image","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+global,"Very High","Essay, Read Aloud, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+economic,High,"Essay, Retell Lecture, Describe Image","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+economy,High,"Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+society,"Very High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+population,"Very High","Describe Image, Essay, Retell Lecture","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+generation,High,"Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+government,"Very High","Essay, Read Aloud, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+policy,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+education,"Very High","Essay, Read Aloud, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+knowledge,"Very High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+skill,"Very High","Essay, Read Aloud, Write Email","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+experience,"Very High","Essay, Read Aloud, Write Email","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+professional,High,"Essay, Write Email, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+resource,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+essential,"Very High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+crucial,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+valuable,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+reliable,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+flexible,High,"Essay, Read Aloud, Write Email","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+accurate,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+appropriate,"Very High","Essay, Respond to a Situation, Write Email","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+suitable,"Medium-High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+reasonable,High,"Essay, Respond to a Situation","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+remarkable,"Medium-High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+dramatic,High,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+gradual,High,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+steady,High,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+rapid,High,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+decline,High,"Describe Image, Essay, Summarize Written Text","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+fluctuate,Medium,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+proportion,High,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+percentage,"Very High","Describe Image, Essay, Summarize Written Text","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+majority,"Very High","Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+minority,"Very High","Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+average,"Very High","Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+overall,"Very High","Describe Image, Essay, Summarize Written Text","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+approximate,High,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+compare,"Very High","Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+contrast,High,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+similar,"Very High","Describe Image, Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+differ,High,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+equivalent,Medium,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+correspond,Medium,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+represent,"Very High","Describe Image, Essay, Retell Lecture","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+argue,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+argument,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+debate,"Medium-High","Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+controversial,High,"Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+consequence,High,"Essay, Summarize Written Text","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+consequently,High,"Essay, Summarize Written Text","author judgment: common discourse marker","Practice — not from a verified PTE frequency list"
+thus,High,"Essay, Summarize Written Text","author judgment: common discourse marker","Practice — not from a verified PTE frequency list"
+despite,"Very High","Essay, Summarize Written Text, Read Aloud","author judgment: common discourse marker","Practice — not from a verified PTE frequency list"
+nevertheless,"Medium-High","Essay, Summarize Written Text","author judgment: common discourse marker","Practice — not from a verified PTE frequency list"
+furthermore,"Medium-High","Essay, Summarize Written Text","author judgment: common discourse marker","Practice — not from a verified PTE frequency list"
+moreover,"Medium-High","Essay, Summarize Written Text","author judgment: common discourse marker","Practice — not from a verified PTE frequency list"
+addition,High,"Essay, Summarize Written Text","author judgment: common discourse marker (in addition)","Practice — not from a verified PTE frequency list"
+regarding,High,"Essay, Respond to a Situation, Write Email","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+overcome,High,"Essay, Read Aloud, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+address,"Very High","Essay, Respond to a Situation, Write Email","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+tackle,Medium,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+implement,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+implementation,Medium,"Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+execute,Medium,"Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+enhance,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+improve,"Very High","Essay, Read Aloud, Describe Image","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+improvement,"Very High","Essay, Describe Image, Retell Lecture","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+facilitate,Medium,"Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+promote,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+encourage,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+discourage,"Medium-High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+prevent,"Very High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+avoid,"Very High","Essay, Read Aloud, Respond to a Situation","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+reduce,"Very High","Describe Image, Essay, Read Aloud","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+minimize,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+university,"Very High","Read Aloud, Essay, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+institution,High,"Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+curriculum,"Medium-High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+assignment,"Very High","Essay, Read Aloud, Write Email","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+lecture,"Very High","Retell Lecture, Read Aloud, Essay","author judgment: names the Retell Lecture item type","Practice — not from a verified PTE frequency list"
+seminar,Medium,"Read Aloud, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+graduate,High,"Read Aloud, Essay, Write Email","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+undergraduate,"Medium-High","Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+degree,"Very High","Read Aloud, Essay, Write Email","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+qualification,"Medium-High","Write Email, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+career,"Very High","Essay, Read Aloud, Write Email","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+employment,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+employee,High,"Essay, Write Email, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+employer,High,"Essay, Write Email, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+workplace,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+colleague,High,"Essay, Write Email, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+supervisor,"Medium-High","Write Email, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+management,"Very High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+manage,"Very High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+organization,"Very High","Essay, Read Aloud, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+organize,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+participate,High,"Essay, Read Aloud, Retell Lecture","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+participant,High,"Essay, Retell Lecture","author judgment: common in research-description contexts","Practice — not from a verified PTE frequency list"
+volunteer,"Medium-High","Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+schedule,"Very High","Read Aloud, Write Email, Respond to a Situation","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+deadline,"Very High","Read Aloud, Write Email, Respond to a Situation","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+duration,Medium,"Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+semester,Medium,"Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+academic,"Very High","Essay, Read Aloud, Retell Lecture","author judgment: names the test itself (PTE Academic)","Practice — not from a verified PTE frequency list"
+scholarship,Medium,"Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+climate,"Very High","Read Aloud, Essay, Retell Lecture","author judgment: common environmental Read Aloud topic","Practice — not from a verified PTE frequency list"
+species,High,"Read Aloud, Retell Lecture","author judgment: common environmental Read Aloud topic","Practice — not from a verified PTE frequency list"
+ecosystem,High,"Read Aloud, Retell Lecture","author judgment: common environmental Read Aloud topic","Practice — not from a verified PTE frequency list"
+sustainable,"Very High","Essay, Read Aloud","author judgment: common environmental Read Aloud topic","Practice — not from a verified PTE frequency list"
+sustainability,High,"Essay, Retell Lecture","author judgment: common environmental Read Aloud topic","Practice — not from a verified PTE frequency list"
+renewable,"Very High","Read Aloud, Essay","author judgment: common environmental Read Aloud topic","Practice — not from a verified PTE frequency list"
+emission,"Very High","Read Aloud, Essay","author judgment: common environmental Read Aloud topic","Practice — not from a verified PTE frequency list"
+pollution,"Very High","Read Aloud, Essay","author judgment: common environmental Read Aloud topic","Practice — not from a verified PTE frequency list"
+conservation,High,"Read Aloud, Retell Lecture","author judgment: common environmental Read Aloud topic","Practice — not from a verified PTE frequency list"
+biodiversity,"Medium-High","Read Aloud, Retell Lecture","author judgment: common environmental Read Aloud topic","Practice — not from a verified PTE frequency list"
+temperature,"Very High","Read Aloud, Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+atmosphere,"Medium-High","Read Aloud, Retell Lecture","author judgment: common environmental Read Aloud topic","Practice — not from a verified PTE frequency list"
+molecule,Medium,"Read Aloud, Retell Lecture","author judgment: common science Read Aloud topic","Practice — not from a verified PTE frequency list"
+organism,"Medium-High","Read Aloud, Retell Lecture","author judgment: common science Read Aloud topic","Practice — not from a verified PTE frequency list"
+mechanism,High,"Read Aloud, Essay, Retell Lecture","author judgment: common science/academic vocabulary","Practice — not from a verified PTE frequency list"
+artificial,"Very High","Read Aloud, Essay, Retell Lecture","author judgment: common technology Read Aloud topic","Practice — not from a verified PTE frequency list"
+intelligence,"Very High","Read Aloud, Essay, Retell Lecture","author judgment: common technology Read Aloud topic","Practice — not from a verified PTE frequency list"
+algorithm,Medium,"Read Aloud, Retell Lecture","author judgment: common technology Read Aloud topic","Practice — not from a verified PTE frequency list"
+device,"Very High","Read Aloud, Essay","author judgment: common technology Read Aloud topic","Practice — not from a verified PTE frequency list"
+equipment,"Very High","Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+infrastructure,High,"Read Aloud, Essay","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+transportation,"Very High","Read Aloud, Essay, Describe Image","author judgment: common city/infrastructure Read Aloud topic","Practice — not from a verified PTE frequency list"
+vehicle,"Very High","Read Aloud, Essay","author judgment: common technology/environment Read Aloud topic","Practice — not from a verified PTE frequency list"
+efficiency,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+capacity,High,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+quantity,"Very High","Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+quality,"Very High","Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+volume,High,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+density,Medium,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+velocity,Medium,"Read Aloud, Retell Lecture","author judgment: common science Read Aloud topic","Practice — not from a verified PTE frequency list"
+medicine,"Very High","Read Aloud, Essay","author judgment: common health-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+medical,"Very High","Read Aloud, Essay","author judgment: common health-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+treatment,"Very High","Read Aloud, Essay, Retell Lecture","author judgment: common health-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+symptom,High,"Read Aloud, Retell Lecture","author judgment: common health-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+diagnosis,"Medium-High","Read Aloud, Retell Lecture","author judgment: common health-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+disease,"Very High","Read Aloud, Essay, Retell Lecture","author judgment: common health-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+virus,"Very High","Read Aloud, Retell Lecture","author judgment: common health-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+vaccine,High,"Read Aloud, Retell Lecture","author judgment: common health-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+immune,High,"Read Aloud, Retell Lecture","author judgment: common health-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+nutrition,High,"Read Aloud, Essay","author judgment: common health-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+exercise,"Very High","Read Aloud, Essay","author judgment: common health-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+psychology,High,"Read Aloud, Retell Lecture","author judgment: common psychology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+behavior,"Very High","Read Aloud, Retell Lecture, Essay","author judgment: common psychology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+emotion,High,"Read Aloud, Retell Lecture","author judgment: common psychology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+memory,"Very High","Read Aloud, Retell Lecture","author judgment: common psychology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+perception,"Medium-High","Read Aloud, Retell Lecture","author judgment: common psychology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+cognitive,Medium,"Read Aloud, Retell Lecture","author judgment: common psychology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+awareness,High,"Essay, Read Aloud","author judgment: common academic/AWL-family vocabulary","Practice — not from a verified PTE frequency list"
+history,"Very High","Read Aloud, Essay, Retell Lecture","author judgment: common history-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+historical,High,"Read Aloud, Essay, Retell Lecture","author judgment: common history-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+culture,"Very High","Read Aloud, Essay","author judgment: common culture-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+cultural,High,"Read Aloud, Essay","author judgment: common culture-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+century,High,"Read Aloud, Retell Lecture","author judgment: common history-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+ancient,High,"Read Aloud, Retell Lecture","author judgment: common history-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+civilization,Medium,"Read Aloud, Retell Lecture","author judgment: common history-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+heritage,"Medium-High","Read Aloud, Essay","author judgment: common culture-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+tradition,High,"Read Aloud, Essay","author judgment: common culture-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+custom,"Medium-High","Read Aloud, Essay","author judgment: common culture-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+religion,"Medium-High","Read Aloud, Retell Lecture","author judgment: common culture-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+religious,Medium,"Read Aloud, Retell Lecture","author judgment: common culture-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+budget,"Very High","Essay, Describe Image","author judgment: common in financial data-reporting contexts","Practice — not from a verified PTE frequency list"
+investment,"Very High","Essay, Read Aloud","author judgment: common business/finance Read Aloud topic","Practice — not from a verified PTE frequency list"
+invest,High,"Essay, Read Aloud","author judgment: common business/finance Read Aloud topic","Practice — not from a verified PTE frequency list"
+profit,"Very High","Essay, Describe Image","author judgment: common in financial data-reporting contexts","Practice — not from a verified PTE frequency list"
+revenue,"Very High","Describe Image, Essay","author judgment: common in financial data-reporting contexts","Practice — not from a verified PTE frequency list"
+expense,High,"Essay, Read Aloud","author judgment: common business/finance Read Aloud topic","Practice — not from a verified PTE frequency list"
+finance,High,"Essay, Read Aloud","author judgment: common business/finance Read Aloud topic","Practice — not from a verified PTE frequency list"
+financial,"Very High","Essay, Describe Image","author judgment: common in financial data-reporting contexts","Practice — not from a verified PTE frequency list"
+commercial,High,"Read Aloud, Essay","author judgment: common business-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+corporate,High,"Read Aloud, Essay","author judgment: common business-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+corporation,"Medium-High","Read Aloud, Essay","author judgment: common business-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+industry,"Very High","Read Aloud, Essay, Retell Lecture","author judgment: common business-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+industrial,High,"Read Aloud, Essay","author judgment: common business-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+market,"Very High","Read Aloud, Essay, Describe Image","author judgment: common business/economics Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+marketing,"Very High","Read Aloud, Essay","author judgment: common business-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+competition,"Very High","Read Aloud, Essay","author judgment: common business-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+competitive,High,"Essay, Read Aloud","author judgment: common business-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+consumer,"Very High","Essay, Read Aloud","author judgment: common business-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+consumption,High,"Describe Image, Essay","author judgment: common in data-reporting contexts","Practice — not from a verified PTE frequency list"
+transaction,High,"Read Aloud, Essay","author judgment: common business/finance Read Aloud topic","Practice — not from a verified PTE frequency list"
+currency,High,"Read Aloud, Essay","author judgment: common economics-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+inflation,High,"Read Aloud, Essay","author judgment: common economics-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+taxation,"Medium-High","Read Aloud, Essay","author judgment: common economics/policy-topic content","Practice — not from a verified PTE frequency list"
+income,"Very High","Essay, Describe Image","author judgment: common in financial data-reporting contexts","Practice — not from a verified PTE frequency list"
+salary,High,"Essay, Write Email","author judgment: common workplace-topic vocabulary","Practice — not from a verified PTE frequency list"
+wage,"Medium-High","Read Aloud, Essay","author judgment: common economics-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+entrepreneur,Medium,"Read Aloud, Essay","author judgment: common business-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+enterprise,Medium,"Read Aloud, Essay","author judgment: common business-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+shareholder,Medium,"Read Aloud, Essay","author judgment: common business-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+stakeholder,Medium,"Read Aloud, Essay","author judgment: common business-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+region,"Very High","Read Aloud, Essay, Describe Image","author judgment: common geography-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+regional,High,"Read Aloud, Essay","author judgment: common geography-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+rural,High,"Read Aloud, Essay","author judgment: common geography-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+urban,"Very High","Read Aloud, Essay","author judgment: common geography-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+suburb,"Medium-High","Read Aloud, Essay","author judgment: common geography-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+municipal,Medium,"Read Aloud, Retell Lecture","author judgment: common geography-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+residential,"Medium-High","Read Aloud, Essay","author judgment: common urban-planning-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+territory,Medium,"Read Aloud, Retell Lecture","author judgment: common geography-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+boundary,Medium,"Read Aloud, Essay","author judgment: common geography-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+coastal,Medium,"Read Aloud, Retell Lecture","author judgment: common geography-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+media,"Very High","Essay, Read Aloud","author judgment: common media-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+journalism,Medium,"Read Aloud, Retell Lecture","author judgment: common media-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+journalist,Medium,"Read Aloud, Retell Lecture","author judgment: common media-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+broadcast,"Medium-High","Read Aloud, Retell Lecture","author judgment: common media-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+publication,"Medium-High","Read Aloud, Essay","author judgment: common academic/media-topic vocabulary","Practice — not from a verified PTE frequency list"
+publish,"Medium-High","Read Aloud, Essay","author judgment: common academic/media-topic vocabulary","Practice — not from a verified PTE frequency list"
+entertainment,High,"Read Aloud, Essay","author judgment: common media-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+audience,High,"Read Aloud, Essay","author judgment: common media/entertainment-topic content","Practice — not from a verified PTE frequency list"
+advertisement,"Medium-High","Read Aloud, Essay","author judgment: common media-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+advertise,Medium,"Read Aloud, Essay","author judgment: common media-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+platform,"Very High","Read Aloud, Essay","author judgment: common technology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+network,"Very High","Read Aloud, Essay","author judgment: common technology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+digital,"Very High","Read Aloud, Essay","author judgment: common technology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+software,"Very High","Read Aloud, Essay","author judgment: common technology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+hardware,"Very High","Read Aloud, Essay","author judgment: common technology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+interface,"Medium-High","Read Aloud, Essay","author judgment: common technology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+database,High,"Read Aloud, Essay","author judgment: common technology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+server,High,"Read Aloud, Essay","author judgment: common technology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+bandwidth,Medium,"Read Aloud, Retell Lecture","author judgment: common technology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+connectivity,High,"Read Aloud, Essay","author judgment: common technology-topic Read Aloud vocabulary","Practice — not from a verified PTE frequency list"
+law,Very High,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+legal,Very High,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+illegal,High,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+legislation,Medium-High,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+legislature,Medium,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+justice,High,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+judge,High,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+judicial,Medium,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+court,High,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+crime,High,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+criminal,High,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+offense,Medium,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+penalty,Medium-High,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+punishment,Medium,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+enforcement,Medium-High,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+regulation,Very High,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+regulate,High,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+authority,Very High,"Read Aloud, Essay",author judgment: common law/justice-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+election,Very High,"Read Aloud, Essay",author judgment: common politics/civics-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+candidate,Very High,"Read Aloud, Essay",author judgment: common politics/civics-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+campaign,High,"Read Aloud, Essay",author judgment: common politics/civics-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+democracy,High,"Read Aloud, Essay",author judgment: common politics/civics-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+democratic,High,"Read Aloud, Essay",author judgment: common politics/civics-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+citizen,Very High,"Read Aloud, Essay",author judgment: common politics/civics-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+citizenship,Medium-High,"Read Aloud, Essay",author judgment: common politics/civics-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+constitution,Medium-High,"Read Aloud, Essay",author judgment: common politics/civics-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+parliament,Medium,"Read Aloud, Essay",author judgment: common politics/civics-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+senate,Medium,"Read Aloud, Essay",author judgment: common politics/civics-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+diplomat,Medium,"Read Aloud, Essay",author judgment: common politics/civics-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+diplomatic,Medium,"Read Aloud, Essay",author judgment: common politics/civics-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+literature,High,"Read Aloud, Retell Lecture",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+novel,Medium-High,"Read Aloud, Retell Lecture",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+poetry,Medium,"Read Aloud, Retell Lecture",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+author,Very High,"Read Aloud, Retell Lecture, Summarize Written Text",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+narrative,Medium,"Read Aloud, Retell Lecture",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+fiction,Medium-High,"Read Aloud, Retell Lecture",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+character,Very High,"Read Aloud, Retell Lecture",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+theater,Medium-High,"Read Aloud, Retell Lecture",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+performance,Very High,"Read Aloud, Retell Lecture",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+perform,High,"Read Aloud, Retell Lecture",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+exhibition,Medium,"Read Aloud, Retell Lecture",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+gallery,Medium,"Read Aloud, Retell Lecture",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+sculpture,Low-Medium,"Read Aloud, Retell Lecture",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+architecture,Medium,"Read Aloud, Retell Lecture",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+architect,Medium,"Read Aloud, Retell Lecture",author judgment: common arts/literature-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+athlete,Medium-High,"Read Aloud, Describe Image",author judgment: common sports-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+athletic,Medium,"Read Aloud, Describe Image",author judgment: common sports-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+championship,Medium-High,"Read Aloud, Describe Image",author judgment: common sports-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+tournament,Medium,"Read Aloud, Describe Image",author judgment: common sports-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+stadium,Medium,"Read Aloud, Describe Image",author judgment: common sports-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+spectator,Medium,"Read Aloud, Describe Image",author judgment: common sports-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+leisure,Medium,"Read Aloud, Essay",author judgment: common travel/leisure-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+hobby,Medium-High,"Read Aloud, Essay",author judgment: common travel/leisure-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+recreation,Medium,"Read Aloud, Essay",author judgment: common travel/leisure-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+tourism,High,"Read Aloud, Essay",author judgment: common travel/leisure-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+tourist,Very High,"Read Aloud, Essay",author judgment: common travel/leisure-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+destination,Very High,"Read Aloud, Essay",author judgment: common travel/leisure-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+accommodation,High,"Read Aloud, Essay",author judgment: common travel/leisure-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+itinerary,Medium,"Read Aloud, Essay",author judgment: common travel/leisure-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+souvenir,Medium,"Read Aloud, Essay",author judgment: common travel/leisure-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+experiment,High,"Read Aloud, Retell Lecture",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+laboratory,High,"Read Aloud, Retell Lecture",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+observe,High,"Read Aloud, Retell Lecture",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+observation,High,"Read Aloud, Retell Lecture",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+sample,Medium-High,"Read Aloud, Retell Lecture",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+survey,High,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+questionnaire,Medium,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+verify,Medium,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+verification,Medium,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+replicate,Medium,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+empirical,Medium,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+quantitative,Medium,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+qualitative,Medium,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+statistic,Medium,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+statistics,Medium,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+scientist,High,"Read Aloud, Retell Lecture",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+discovery,High,"Read Aloud, Retell Lecture",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+discover,High,"Read Aloud, Retell Lecture",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+invention,Medium-High,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+invent,Medium-High,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+breakthrough,Medium,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+prototype,Medium,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+simulate,Medium,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+simulation,Medium,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+calculate,High,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+calculation,Medium-High,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+measurement,Medium-High,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+measure,High,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+assess,High,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+assessment,Very High,"Read Aloud, Essay",author judgment: common science/research-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+household,Medium-High,"Read Aloud, Essay",author judgment: common family/relationships-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+family,Very High,"Read Aloud, Essay",author judgment: common family/relationships-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+relative,Medium,"Read Aloud, Essay",author judgment: common family/relationships-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+sibling,Medium,"Read Aloud, Essay",author judgment: common family/relationships-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+parent,Very High,"Read Aloud, Essay",author judgment: common family/relationships-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+spouse,Low-Medium,"Read Aloud, Essay",author judgment: common family/relationships-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+marriage,Medium,"Read Aloud, Essay",author judgment: common family/relationships-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+divorce,Low-Medium,"Read Aloud, Essay",author judgment: common family/relationships-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+childhood,Medium-High,"Read Aloud, Essay",author judgment: common family/relationships-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+elderly,Medium,"Read Aloud, Essay",author judgment: common family/relationships-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+guardian,Low-Medium,"Read Aloud, Essay",author judgment: common family/relationships-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+upbringing,Low-Medium,"Read Aloud, Essay",author judgment: common family/relationships-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+ancestor,Low-Medium,"Read Aloud, Essay",author judgment: common family/relationships-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+descendant,Low-Medium,"Read Aloud, Essay",author judgment: common family/relationships-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+diet,Medium-High,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+appetite,Low-Medium,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+allergy,Medium,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+therapy,Medium-High,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+therapist,Medium,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+hospital,High,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+clinic,Medium-High,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+patient,High,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+physician,Medium,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+surgeon,Medium,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+prescription,Medium,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+medication,High,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+recovery,Medium-High,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+rehabilitation,Low-Medium,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+wellness,Medium,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+hygiene,Medium-High,"Read Aloud, Essay",author judgment: common health-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+airport,Very High,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+passenger,High,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+luggage,Medium-High,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+departure,High,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+arrival,High,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+boarding,Medium-High,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+terminal,Medium,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+customs,Medium,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+immigration,Medium-High,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+passport,High,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+transit,Medium,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+delay,High,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+route,Medium-High,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+traffic,High,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+congestion,Medium,"Read Aloud, Essay",author judgment: common travel/transportation-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+weather,Very High,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+forecast,Medium-High,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+humidity,Medium,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+precipitation,Low-Medium,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+drought,Low-Medium,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+flood,Medium,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+hurricane,Low-Medium,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+thunderstorm,Medium,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+wind,Medium-High,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+rainfall,Medium,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+storm,Medium-High,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+disaster,Medium-High,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+earthquake,Medium,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+wildfire,Medium,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+tornado,Low-Medium,"Read Aloud, Essay",author judgment: common weather/disasters-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+interview,Very High,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+resume,High,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+application,Very High,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+promotion,High,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+recruit,Medium,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+recruitment,Medium,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+onboarding,Low-Medium,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+teamwork,High,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+freelance,Medium,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+remote,High,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+overtime,Medium,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+appraisal,Medium,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+feedback,Very High,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+mentor,Medium-High,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+internship,Medium-High,"Read Aloud, Essay",author judgment: common careers/workplace-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+password,High,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+username,Medium-High,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+upload,High,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+download,High,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+browser,Medium-High,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+website,Very High,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+encryption,Low-Medium,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+cybersecurity,Medium,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+malware,Low-Medium,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+firewall,Low-Medium,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+cloud,Medium-High,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+streaming,High,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+subscription,Medium-High,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+app,Very High,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+notification,Medium-High,"Read Aloud, Essay",author judgment: common technology/internet-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+anxious,High,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+anxiety,Medium-High,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+confident,Very High,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+confidence,Very High,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+enthusiastic,High,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+enthusiasm,Medium-High,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+curious,High,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+curiosity,Medium-High,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+ambitious,High,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+ambition,High,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+humble,Medium,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+humility,Low-Medium,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+optimistic,High,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+optimism,Medium-High,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+resilient,Medium,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+resilience,Medium,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+empathy,Medium-High,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+empathetic,Medium,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+gratitude,Medium,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
+grateful,High,"Read Aloud, Essay",author judgment: common emotions/personality-topic Read Aloud vocabulary,Practice — not from a verified PTE frequency list
